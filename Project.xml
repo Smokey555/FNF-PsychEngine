@@ -86,7 +86,7 @@
 		<assets path='example_mods' rename='mods' embed='false'/>
 	</section>
 	<assets path='art/readme.txt' rename='do NOT readme.txt' />
-	<assets path='alsoft.ini' rename='alsoft.ini' />
+	<assets path='alsoft.ini'/>
 
 	<!-- _______________________________ Libraries ______________________________ -->
 
