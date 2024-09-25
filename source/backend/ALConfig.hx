@@ -1,4 +1,4 @@
-package funkin.audio;
+package backend;
 
 import haxe.io.Path;
 
