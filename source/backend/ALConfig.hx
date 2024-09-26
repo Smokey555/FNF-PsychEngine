@@ -2,6 +2,7 @@ package backend;
 
 import haxe.io.Path;
 
+@:keep
 class ALConfig
 {
 	#if desktop
